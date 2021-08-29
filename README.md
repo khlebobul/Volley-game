@@ -1,4 +1,4 @@
-# Vollye-game "welcome to the tapki"
+# Volley-game "welcome to the tapki"
 An analogue of the popular dinosaur game
 
  <p alight="center">
